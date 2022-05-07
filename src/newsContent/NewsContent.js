@@ -5,7 +5,7 @@ import NewsCard from '../componant/NewsCard/NewsCard';
 
 
 const NewsContent = ({newsArray, newsResults, loadmore, setLoadmore}) => {
-    console.log(newsArray);
+
     
   return (
     <Container maxWidth="md"> 
